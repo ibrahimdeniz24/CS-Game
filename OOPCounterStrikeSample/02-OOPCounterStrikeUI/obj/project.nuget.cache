@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NQYx5lVNOeU3vrH9wiu2x9wcezo+dJTaxcHGdyqJwh9p5pCRXLCijq+MnU6PoN9aoBHokBc8h/i4cufaOH/7sQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ibrah\\Desktop\\Bilge Adam\\HS-15 Dersler\\OOP\\OOPCounterStrikeSample\\02-OOPCounterStrikeUI\\02-OOPCounterStrikeUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ibrah\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\system.drawing.common\\8.0.3\\system.drawing.common.8.0.3.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\system.windows.extensions\\8.0.0\\system.windows.extensions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
